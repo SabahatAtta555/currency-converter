@@ -8,7 +8,7 @@ let exchange_rate: any = {
     "USD" :1,
     "EUR":0.9,
     "JYP":113,
-    "CAD":1.3,
+    "CAD":1.3,  
     "AUD":1.65,
     "PKR":280,
 }
